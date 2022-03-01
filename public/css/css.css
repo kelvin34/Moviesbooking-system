@@ -1,0 +1,174 @@
+.text-bold.table td,
+.text-bold.table th {
+  font-weight: 700;
+}
+
+.text-xs {
+  font-size: 0.75rem !important;
+}
+
+.text-sm {
+  font-size: 0.875rem !important;
+}
+
+.text-md {
+  font-size: 1rem !important;
+}
+
+.text-lg {
+  font-size: 1.25rem !important;
+}
+
+.text-xl {
+  font-size: 2rem !important;
+}
+
+.text-lightblue {
+  color: #3c8dbc !important;
+}
+
+.text-navy {
+  color: #001f3f !important;
+}
+
+.text-olive {
+  color: #3d9970 !important;
+}
+
+.text-lime {
+  color: #01ff70 !important;
+}
+
+.text-fuchsia {
+  color: #f012be !important;
+}
+
+.text-maroon {
+  color: #d81b60 !important;
+}
+
+.text-blue {
+  color: #007bff !important;
+}
+
+.text-indigo {
+  color: #6610f2 !important;
+}
+
+.text-purple {
+  color: #6f42c1 !important;
+}
+
+.text-pink {
+  color: #e83e8c !important;
+}
+
+.text-red {
+  color: #dc3545 !important;
+}
+
+.text-orange {
+  color: #fd7e14 !important;
+}
+
+.text-yellow {
+  color: #ffc107 !important;
+}
+
+.text-green {
+  color: #28a745 !important;
+}
+
+.text-teal {
+  color: #20c997 !important;
+}
+
+.text-cyan {
+  color: #17a2b8 !important;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.text-gray {
+  color: #6c757d !important;
+}
+
+.text-gray-dark {
+  color: #343a40 !important;
+}
+
+.dark-mode .text-muted {
+  color: #adb5bd !important;
+}
+
+.elevation-0 {
+  box-shadow: none !important;
+}
+
+.elevation-1 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24) !important;
+}
+
+.elevation-2 {
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) !important;
+}
+
+.elevation-3 {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23) !important;
+}
+
+.elevation-4 {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22) !important;
+}
+
+.elevation-5 {
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22) !important;
+}
+
+nav a{
+  color: white !important;
+}
+
+nav a:hover{
+  background-color: #007bff !important;
+  border-radius:  1px 1px 15px 15px;
+}
+
+.table > td{
+  color: red;
+}
+
+.seatTable td{
+  border-radius: 20px 20px 0px 0px;
+  padding: 4px;
+}
+.seatTable td:hover{
+  background-color: #007bff;
+}
+
+.finishticketpayment div:hover{
+  background-color: olive;
+  padding: 5px;
+  color: white;
+}
+
+.unpaidticketpayment div:hover{
+  background-color: olive;
+  padding: 5px;
+  color: white;
+}
+
+.reservedticket div:hover{
+  background-color: olive;
+  padding: 5px;
+  color: white;
+}
+
+.homelists div:hover{
+  background-color: olive;
+  padding: 5px;
+  color: white;
+  margin: 1%;
+}
